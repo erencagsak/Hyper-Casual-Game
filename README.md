@@ -1,4 +1,3 @@
 # TPS HYPER CASUAL GAME FOR ANDROID PLATFORM !
 
 MAIN MENU ADDED.
-![Uploading Ekran Görüntüsü (10).png…]()
